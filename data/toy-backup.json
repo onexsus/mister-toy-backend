@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "t101",
+      "name": "Talking Doll",
+      "price": 123,
+      "labels": ["Doll", "Battery Powered", "Baby"],
+     "createdAt": 1631031801011,
+      "inStock": true
+    },
+    {
+      "_id": "t102",
+      "name": "Panda Doll",
+      "price": 123,
+      "labels": ["Doll", "Battery Powered", "Baby"],
+      "createdAt": 1631031801091,
+      "inStock": true
+    },
+    {
+      "_id": "t103",
+      "name": "Muki Doll",
+      "price": 123,
+      "labels": ["Doll", "Battery Powered", "Baby"],
+      "createdAt": 1631035801011,
+      "inStock": false
+    }
+  ]
