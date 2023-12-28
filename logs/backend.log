@@ -94,3 +94,11 @@
 27.12.2023, 6:51:57 - INFO - Server listening on port http://127.0.0.1:3030/
 27.12.2023, 6:54:09 - INFO - loggedinUser toy delete: | {"_id":"admin123","fullname":"Boris","isAdmin":true}
 27.12.2023, 6:54:09 - INFO - toy VXR7C removed
+28.12.2023, 2:01:28 - INFO - Server listening on port http://127.0.0.1:3030/
+28.12.2023, 2:14:45 - INFO - user loggedin: | {"_id":"admin123","fullname":"Boris","isAdmin":true}
+28.12.2023, 2:44:30 - INFO - user loggedin: | {"_id":"u102","fullname":"Muki Ba"}
+28.12.2023, 2:44:36 - INFO - user loggedin: | {"_id":"admin123","fullname":"Boris","isAdmin":true}
+28.12.2023, 2:45:21 - INFO - user loggedin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+28.12.2023, 2:45:30 - INFO - user loggedin: | {"_id":"admin123","fullname":"Boris","isAdmin":true}
+28.12.2023, 2:55:23 - INFO - Server listening on port http://127.0.0.1:3030/
+28.12.2023, 2:58:45 - INFO - user loggedin: | {"_id":"admin123","fullname":"Boris","isAdmin":true}

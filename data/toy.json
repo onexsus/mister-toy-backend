@@ -1,5 +1,16 @@
 [
     {
+        "name": "bogi",
+        "price": 45,
+        "labels": [
+            "Art",
+            "Outdoor"
+        ],
+        "inStock": true,
+        "createdAt": "2023-12-28T01:00:14.473Z",
+        "_id": "49dcX"
+    },
+    {
         "_id": "t101",
         "name": "Talking Doll",
         "price": 160,
