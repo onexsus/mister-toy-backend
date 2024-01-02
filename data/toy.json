@@ -1,19 +1,43 @@
 [
     {
-        "name": "bogi",
-        "price": 45,
+        "name": "Blue Race Car",
+        "price": 50,
         "labels": [
-            "Art",
-            "Outdoor"
+            "On wheels"
         ],
+        "inStock": false,
+        "url": "https://freepngimg.com/thumb/hot_wheels/27934-1-hot-wheels-transparent-picture-thumb.png",
+        "createdAt": "2024-01-01T23:39:55.147Z",
+        "_id": "b1txv"
+    },
+    {
+        "name": "Yellow Race Car",
+        "price": 12,
+        "labels": [
+            "On wheels"
+        ],
+        "inStock": false,
+        "url": "https://freepngimg.com/thumb/hot_wheels/27927-1-hot-wheels-image-thumb.png",
+        "createdAt": "2023-12-31T04:34:40.671Z",
+        "_id": "5SA2L"
+    },
+    {
+        "name": "Lego Hero",
+        "price": 50,
+        "labels": [
+            "Art"
+        ],
+        "url": "https://freepngimg.com/thumb/toy/134539-minifigure-lego-free-clipart-hd-thumb.png",
         "inStock": true,
         "createdAt": "2023-12-28T01:00:14.473Z",
-        "_id": "49dcX"
+        "_id": "49dcX",
+        "img": "lego-2-toy.png"
     },
     {
         "_id": "t101",
-        "name": "Talking Doll",
+        "name": "Dog Doll",
         "price": 160,
+        "url": "https://freepngimg.com/thumb/toy/33908-7-plush-toy-file-thumb.png",
         "labels": [
             "Doll",
             "Battery Powered",
@@ -25,6 +49,7 @@
     {
         "_id": "t102",
         "name": "Panda Doll",
+        "url": "https://freepngimg.com/thumb/toy/33571-5-plush-toy-image-thumb.png",
         "price": 150,
         "labels": [
             "Doll",

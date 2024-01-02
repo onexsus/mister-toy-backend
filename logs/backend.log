@@ -102,3 +102,179 @@
 28.12.2023, 2:45:30 - INFO - user loggedin: | {"_id":"admin123","fullname":"Boris","isAdmin":true}
 28.12.2023, 2:55:23 - INFO - Server listening on port http://127.0.0.1:3030/
 28.12.2023, 2:58:45 - INFO - user loggedin: | {"_id":"admin123","fullname":"Boris","isAdmin":true}
+28.12.2023, 8:22:25 - INFO - user loggedin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+28.12.2023, 8:27:19 - INFO - user loggedin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+31.12.2023, 6:18:08 - INFO - user loggedin: | {"_id":"admin123","fullname":"Boris","isAdmin":true}
+31.12.2023, 9:16:43 - INFO - Server listening on port http://127.0.0.1:3030/
+2.1.2024, 1:37:25 - INFO - loggedinUser toy delete: | {"_id":"admin123","fullname":"Boris","isAdmin":true}
+2.1.2024, 1:37:25 - INFO - toy cVKIE removed
+2.1.2024, 1:39:25 - INFO - loggedinUser toy delete: | {"_id":"admin123","fullname":"Boris","isAdmin":true}
+2.1.2024, 1:39:25 - INFO - toy OmESj removed
+2.1.2024, 2:31:22 - INFO - user loggedin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+2.1.2024, 2:33:14 - INFO - user loggedin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+2.1.2024, 2:33:30 - INFO - user loggedin: | {"_id":"u102","fullname":"Muki Ba"}
+2.1.2024, 2:35:30 - INFO - user loggedin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+2.1.2024, 2:35:43 - INFO - user loggedin: | {"_id":"u102","fullname":"Muki Ba"}
+2.1.2024, 2:39:54 - INFO - user loggedin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+2.1.2024, 7:42:41 - INFO - Server listening on port http://127.0.0.1:3030/
+2.1.2024, 7:42:59 - INFO - user loggedin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+2.1.2024, 7:49:51 - INFO - server.js loaded... 
+2.1.2024, 7:49:51 - INFO - Server is running on port: 3030 
+2.1.2024, 7:56:21 - INFO - Req was made | / 
+2.1.2024, 7:56:21 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 7:56:21 - INFO - Req was made | / 
+2.1.2024, 7:56:21 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 7:56:23 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 7:56:23 - INFO - Req was made | / 
+2.1.2024, 7:56:23 - INFO - Req was made | / 
+2.1.2024, 7:56:23 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 7:56:56 - DEBUG - auth.service - login with username: admin 
+2.1.2024, 7:56:56 - INFO - User login:  | {"_id":"6593a581cb5aff006f5fd9f6","username":"admin","fullname":"Boris","isAdmin":true} 
+2.1.2024, 7:57:00 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 7:57:00 - INFO - Req was made | / 
+2.1.2024, 7:57:00 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 7:57:00 - INFO - Req was made | / 
+2.1.2024, 7:57:31 - INFO - Req was made | / 
+2.1.2024, 7:57:31 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 7:57:31 - INFO - Req was made | / 
+2.1.2024, 7:57:31 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 7:57:41 - INFO - Req was made | / 
+2.1.2024, 7:57:41 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 7:57:41 - INFO - Req was made | / 
+2.1.2024, 7:57:41 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 7:59:43 - INFO - Req was made | / 
+2.1.2024, 7:59:43 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:02:52 - INFO - Req was made | / 
+2.1.2024, 8:02:52 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:39:51 - INFO - Req was made | / 
+2.1.2024, 8:39:51 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:41:13 - INFO - Req was made | / 
+2.1.2024, 8:41:13 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:41:19 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:41:19 - INFO - Req was made | / 
+2.1.2024, 8:41:19 - INFO - Req was made | / 
+2.1.2024, 8:41:19 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:43:46 - INFO - Req was made | / 
+2.1.2024, 8:43:46 - DEBUG - Getting Toys | {"txt":"s","status":null,"labels":null} 
+2.1.2024, 8:43:48 - INFO - Req was made | / 
+2.1.2024, 8:43:48 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:43:50 - INFO - Req was made | / 
+2.1.2024, 8:43:50 - DEBUG - Getting Toys | {"txt":"ca","status":null,"labels":null} 
+2.1.2024, 8:43:51 - INFO - Req was made | / 
+2.1.2024, 8:43:51 - DEBUG - Getting Toys | {"txt":"car","status":null,"labels":null} 
+2.1.2024, 8:43:53 - INFO - Req was made | / 
+2.1.2024, 8:43:53 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:44:00 - INFO - Req was made | / 
+2.1.2024, 8:44:00 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":["Battery Powered"]} 
+2.1.2024, 8:44:02 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:44:02 - INFO - Req was made | / 
+2.1.2024, 8:44:06 - INFO - Req was made | / 
+2.1.2024, 8:44:06 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":["Ride"]} 
+2.1.2024, 8:44:07 - INFO - Req was made | / 
+2.1.2024, 8:44:07 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:44:43 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:44:43 - INFO - Req was made | / 
+2.1.2024, 8:44:54 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:44:54 - INFO - Req was made | / 
+2.1.2024, 8:44:55 - INFO - Req was made | / 
+2.1.2024, 8:44:55 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:44:57 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":["On wheels"]} 
+2.1.2024, 8:44:57 - INFO - Req was made | / 
+2.1.2024, 8:44:58 - INFO - Req was made | / 
+2.1.2024, 8:44:58 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:44:59 - INFO - Req was made | / 
+2.1.2024, 8:44:59 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":["Box game"]} 
+2.1.2024, 8:45:00 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:45:00 - INFO - Req was made | / 
+2.1.2024, 8:45:01 - INFO - Req was made | / 
+2.1.2024, 8:45:01 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":["Art"]} 
+2.1.2024, 8:45:02 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:45:02 - INFO - Req was made | / 
+2.1.2024, 8:45:03 - INFO - Req was made | / 
+2.1.2024, 8:45:03 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":["Baby"]} 
+2.1.2024, 8:45:04 - INFO - Req was made | / 
+2.1.2024, 8:45:04 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:45:05 - INFO - Req was made | / 
+2.1.2024, 8:45:05 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":["Doll"]} 
+2.1.2024, 8:45:06 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:45:06 - INFO - Req was made | / 
+2.1.2024, 8:45:07 - INFO - Req was made | / 
+2.1.2024, 8:45:07 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":["Puzzle"]} 
+2.1.2024, 8:45:08 - INFO - Req was made | / 
+2.1.2024, 8:45:08 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:45:09 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":["Outdoor"]} 
+2.1.2024, 8:45:09 - INFO - Req was made | / 
+2.1.2024, 8:45:10 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:45:10 - INFO - Req was made | / 
+2.1.2024, 8:45:12 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":["Battery Powered"]} 
+2.1.2024, 8:45:12 - INFO - Req was made | / 
+2.1.2024, 8:45:13 - INFO - Req was made | / 
+2.1.2024, 8:45:13 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:47:08 - INFO - Req was made | / 
+2.1.2024, 8:47:08 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:47:08 - INFO - Req was made | / 
+2.1.2024, 8:47:08 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:47:49 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:47:49 - INFO - Req was made | / 
+2.1.2024, 8:47:50 - INFO - Req was made | / 
+2.1.2024, 8:47:50 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:48:13 - INFO - Req was made | / 
+2.1.2024, 8:48:13 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:48:14 - INFO - Req was made | / 
+2.1.2024, 8:48:14 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:48:16 - INFO - Req was made | / 
+2.1.2024, 8:48:16 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:48:17 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:48:17 - INFO - Req was made | / 
+2.1.2024, 8:53:42 - INFO - Req was made | / 
+2.1.2024, 8:53:42 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:53:44 - INFO - Req was made | / 
+2.1.2024, 8:53:44 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:54:38 - INFO - Req was made | / 
+2.1.2024, 8:54:38 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:54:38 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:54:38 - INFO - Req was made | / 
+2.1.2024, 8:55:37 - INFO - Req was made | / 
+2.1.2024, 8:55:37 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:55:37 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:55:37 - INFO - Req was made | / 
+2.1.2024, 8:55:39 - INFO - Req was made | / 
+2.1.2024, 8:55:39 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:55:40 - INFO - Req was made | / 
+2.1.2024, 8:55:40 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:58:59 - INFO - Req was made | / 
+2.1.2024, 8:58:59 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:58:59 - INFO - Req was made | / 
+2.1.2024, 8:58:59 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:59:05 - INFO - Req was made | / 
+2.1.2024, 8:59:05 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:59:06 - INFO - Req was made | / 
+2.1.2024, 8:59:06 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:59:17 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:59:17 - INFO - Req was made | / 
+2.1.2024, 8:59:18 - INFO - Req was made | / 
+2.1.2024, 8:59:18 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 8:59:21 - INFO - Req was made | / 
+2.1.2024, 8:59:21 - DEBUG - Getting Toys | {"txt":"car","status":null,"labels":null} 
+2.1.2024, 8:59:23 - INFO - Req was made | / 
+2.1.2024, 8:59:23 - DEBUG - Getting Toys | {"txt":"pa","status":null,"labels":null} 
+2.1.2024, 8:59:26 - DEBUG - Getting Toys | {"txt":"d","status":null,"labels":null} 
+2.1.2024, 8:59:26 - INFO - Req was made | / 
+2.1.2024, 8:59:26 - INFO - Req was made | / 
+2.1.2024, 8:59:26 - DEBUG - Getting Toys | {"txt":"do","status":null,"labels":null} 
+2.1.2024, 8:59:28 - INFO - Req was made | / 
+2.1.2024, 8:59:28 - DEBUG - Getting Toys | {"txt":"r","status":null,"labels":null} 
+2.1.2024, 8:59:32 - DEBUG - Getting Toys | {"txt":"o","status":null,"labels":null} 
+2.1.2024, 8:59:32 - INFO - Req was made | / 
+2.1.2024, 8:59:36 - INFO - Req was made | / 
+2.1.2024, 8:59:36 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 9:00:30 - DEBUG - auth.service - login with username: admin 
+2.1.2024, 9:00:30 - INFO - User login:  | {"_id":"6593a581cb5aff006f5fd9f6","username":"admin","fullname":"Boris","isAdmin":true} 
+2.1.2024, 9:00:33 - INFO - Req was made | / 
+2.1.2024, 9:00:33 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 9:00:33 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 9:00:33 - INFO - Req was made | / 
+2.1.2024, 9:02:00 - INFO - Req was made | / 
+2.1.2024, 9:02:00 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 9:02:00 - INFO - Req was made | / 
+2.1.2024, 9:02:00 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
