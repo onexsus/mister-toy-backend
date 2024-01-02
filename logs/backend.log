@@ -298,3 +298,65 @@
 2.1.2024, 10:08:41 - INFO - Server is running on port: 3030 
 2.1.2024, 10:08:46 - INFO - server.js loaded... 
 2.1.2024, 10:08:46 - INFO - Server is running on port: 3030 
+2.1.2024, 10:11:02 - INFO - server.js loaded... 
+2.1.2024, 10:11:02 - INFO - Server is running on port: 3030 
+2.1.2024, 10:11:09 - INFO - server.js loaded... 
+2.1.2024, 10:11:09 - INFO - Server is running on port: 3030 
+2.1.2024, 10:32:43 - INFO - server.js loaded... 
+2.1.2024, 10:32:43 - INFO - Server is running on port: 3030 
+2.1.2024, 10:33:36 - INFO - server.js loaded... 
+2.1.2024, 10:33:36 - INFO - Server is running on port: 3030 
+2.1.2024, 10:34:10 - INFO - server.js loaded... 
+2.1.2024, 10:34:10 - INFO - Server is running on port: 3030 
+2.1.2024, 10:36:10 - INFO - Req was made | / 
+2.1.2024, 10:36:10 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 10:36:10 - INFO - Req was made | / 
+2.1.2024, 10:36:10 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 10:36:26 - INFO - server.js loaded... 
+2.1.2024, 10:36:26 - INFO - Server is running on port: 3030 
+2.1.2024, 20:42:43 - INFO - server.js loaded... 
+2.1.2024, 20:42:43 - INFO - Server is running on port: 3030 
+2.1.2024, 20:42:47 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:42:47 - INFO - Req was made | / 
+2.1.2024, 20:42:48 - INFO - Req was made | / 
+2.1.2024, 20:42:48 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:43:12 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:43:12 - INFO - Req was made | / 
+2.1.2024, 20:43:12 - INFO - Req was made | / 
+2.1.2024, 20:43:12 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:43:39 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:43:39 - INFO - Req was made | / 
+2.1.2024, 20:43:39 - INFO - Req was made | / 
+2.1.2024, 20:43:39 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:43:46 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:43:46 - INFO - Req was made | / 
+2.1.2024, 20:43:46 - INFO - Req was made | / 
+2.1.2024, 20:43:46 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:43:54 - INFO - Req was made | / 
+2.1.2024, 20:43:54 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:43:54 - INFO - Req was made | / 
+2.1.2024, 20:43:54 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:44:12 - DEBUG - auth.service - login with username: muki 
+2.1.2024, 20:44:12 - INFO - User login:  | {"_id":"6593a581cb5aff006f5fd9f7","username":"muki","fullname":"Muki Ba"} 
+2.1.2024, 20:44:15 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:44:15 - INFO - Req was made | / 
+2.1.2024, 20:44:16 - INFO - Req was made | / 
+2.1.2024, 20:44:16 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:44:25 - DEBUG - Getting Toys | {"txt":"ca","status":null,"labels":null} 
+2.1.2024, 20:44:25 - INFO - Req was made | / 
+2.1.2024, 20:44:26 - INFO - Req was made | / 
+2.1.2024, 20:44:26 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:44:35 - INFO - Req was made | / 
+2.1.2024, 20:44:35 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:44:35 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:44:35 - INFO - Req was made | / 
+2.1.2024, 20:59:23 - INFO - Req was made | / 
+2.1.2024, 20:59:23 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 20:59:24 - INFO - Req was made | / 
+2.1.2024, 20:59:24 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 21:12:41 - INFO - Req was made | / 
+2.1.2024, 21:12:41 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 21:12:41 - INFO - Req was made | / 
+2.1.2024, 21:12:41 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+3.1.2024, 1:47:11 - INFO - server.js loaded... 
+3.1.2024, 1:47:11 - INFO - Server is running on port: 3030 
