@@ -282,3 +282,19 @@
 2.1.2024, 10:00:35 - INFO - Server is running on port: 3030 
 2.1.2024, 10:00:41 - INFO - server.js loaded... 
 2.1.2024, 10:00:41 - INFO - Server is running on port: 3030 
+2.1.2024, 10:02:28 - INFO - Req was made | / 
+2.1.2024, 10:02:28 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 10:02:28 - INFO - Req was made | / 
+2.1.2024, 10:02:28 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 10:03:02 - INFO - Req was made | / 
+2.1.2024, 10:03:02 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 10:03:02 - INFO - Req was made | / 
+2.1.2024, 10:03:02 - DEBUG - Getting Toys | {"txt":"","status":null,"labels":null} 
+2.1.2024, 10:06:37 - INFO - server.js loaded... 
+2.1.2024, 10:06:37 - INFO - Server is running on port: 3030 
+2.1.2024, 10:06:42 - INFO - server.js loaded... 
+2.1.2024, 10:06:42 - INFO - Server is running on port: 3030 
+2.1.2024, 10:08:41 - INFO - server.js loaded... 
+2.1.2024, 10:08:41 - INFO - Server is running on port: 3030 
+2.1.2024, 10:08:46 - INFO - server.js loaded... 
+2.1.2024, 10:08:46 - INFO - Server is running on port: 3030 
